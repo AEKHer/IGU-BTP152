@@ -2,8 +2,8 @@
 (bu cevaplar repoya ekli pdf'in cevaplarıdır)
 
 # 1) 
-![resim](https://github.com/user-attachments/assets/84d18de6-f147-48ad-9594-b9a80326ef52)<br>
-<b>1.Adım:</b> Masaüstü dizini seçilir <br><br>
+![resim](https://github.com/user-attachments/assets/84d18de6-f147-48ad-9594-b9a80326ef52)<br><br>
+<b>1.Adım:</b> Masaüstü dizini seçilir <br>
 **2.Adım:** guvenlik.txt dosyası oluşturulur<br>
 **3.Adım:** dizinler listelenir<br>
 **4.Adım:** guvenlix.txt dosyası düzenleme modunda açılır.<br>
@@ -22,7 +22,7 @@ $ echo Açık Kaynak > ders1.txt <br>
 $ echo İşletim Sistemi > ders2.txt<br>
 $ cat ders1.txt ders2.txt<br>
 Yukarıdaki komut bloğu çalıştırıldığında ekran çıktısı ne olur?<br>
-</b>
+</b><br>
 <b>Çıktı:</b> Açık Kaynak <br> İşletim Sistemi
 
 # 4)
