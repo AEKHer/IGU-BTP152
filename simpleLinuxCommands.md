@@ -33,7 +33,7 @@ satırını görüntülemek için kullanılan komutu yazınız?**<br><br>
 # 5)
 **Sistem yapılandırma dosyaları içerisinde bulunan “passwd” dokümanının ilk ve son 5 satırını
 görüntülemek için kullanılan komutu yazınız?**<br><br>
-**Komut:** head -n 5 /etc/passwd
+**Komut:** head -n 5 /etc/passwd<br>
 **Komut:** tail -n 5 /etc/passwd
 
 # 6) 
